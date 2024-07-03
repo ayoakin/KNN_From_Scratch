@@ -12,11 +12,11 @@ Recreating the KNN algorithm provides insights into
 For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-k-means-from-scratch-341285b8d481)
 
 ### Code
-You can find the code for this project [here](https://github.com/ayoakin/K_Means_From_Scratch/blob/main/Build_K_Means_From_Scratch.ipynb).
+You can find the code for this project [here](https://github.com/ayoakin/KNN_From_Scratch/blob/main/KNN_From_Scratch.ipynb).
 
 File overview:
 
-* `Build_K_Means_From_Scratch.ipynb` - the full code from this project
+* `KNN_From_Scratch.ipynb` - the full code from this project
 
 
 ## Environment Setup
