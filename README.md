@@ -9,7 +9,7 @@ Recreating the KNN algorithm provides insights into
 * Strenghts and Drawbacks of the algorithm
 * Customization potential and Use cases for the algorithm
 
-For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-k-means-from-scratch-341285b8d481)
+For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-k-nearest-neighbors-knn-from-scratch-10dbc5b21254)
 
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/KNN_From_Scratch/blob/main/KNN_From_Scratch.ipynb).
