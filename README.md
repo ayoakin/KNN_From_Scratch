@@ -35,4 +35,4 @@ To follow this project, please install the following locally:
 
 The datasets used for this implementation are
 * the Wine dataset originally on [UCI.edu](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data).
-* the Wine dataset originally on [UCI.edu](https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data).
+* the Auto MPG dataset originally on [UCI.edu](https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data).
